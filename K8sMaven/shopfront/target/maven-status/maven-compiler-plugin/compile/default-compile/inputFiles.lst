@@ -1,0 +1,9 @@
+/mnt/c/Users/2060User/Documents/2060-december-tech/JavaApp/K8sMaven/shopfront/src/main/java/uk/co/danielbryant/djshopping/shopfront/ShopfrontApplication.java
+/mnt/c/Users/2060User/Documents/2060-december-tech/JavaApp/K8sMaven/shopfront/src/main/java/uk/co/danielbryant/djshopping/shopfront/services/ProductService.java
+/mnt/c/Users/2060User/Documents/2060-december-tech/JavaApp/K8sMaven/shopfront/src/main/java/uk/co/danielbryant/djshopping/shopfront/services/dto/ProductDTO.java
+/mnt/c/Users/2060User/Documents/2060-december-tech/JavaApp/K8sMaven/shopfront/src/main/java/uk/co/danielbryant/djshopping/shopfront/repo/StockRepo.java
+/mnt/c/Users/2060User/Documents/2060-december-tech/JavaApp/K8sMaven/shopfront/src/main/java/uk/co/danielbryant/djshopping/shopfront/controllers/HomeController.java
+/mnt/c/Users/2060User/Documents/2060-december-tech/JavaApp/K8sMaven/shopfront/src/main/java/uk/co/danielbryant/djshopping/shopfront/resources/ProductResource.java
+/mnt/c/Users/2060User/Documents/2060-december-tech/JavaApp/K8sMaven/shopfront/src/main/java/uk/co/danielbryant/djshopping/shopfront/repo/ProductRepo.java
+/mnt/c/Users/2060User/Documents/2060-december-tech/JavaApp/K8sMaven/shopfront/src/main/java/uk/co/danielbryant/djshopping/shopfront/services/dto/StockDTO.java
+/mnt/c/Users/2060User/Documents/2060-december-tech/JavaApp/K8sMaven/shopfront/src/main/java/uk/co/danielbryant/djshopping/shopfront/model/Product.java
